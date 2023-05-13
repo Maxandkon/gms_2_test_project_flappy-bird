@@ -1,0 +1,20 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"Object3","order":2,"path":"objects/Object3/Object3.yy",},
+    {"name":"Object5","order":4,"path":"objects/Object5/Object5.yy",},
+    {"name":"Omet","order":1,"path":"objects/Omet/Omet.yy",},
+    {"name":"Sback","order":2,"path":"sprites/Sback/Sback.yy",},
+    {"name":"Sprite5","order":4,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"Oblock","order":6,"path":"objects/Oblock/Oblock.yy",},
+    {"name":"Smet","order":5,"path":"sprites/Smet/Smet.yy",},
+    {"name":"Sbam","order":6,"path":"sprites/Sbam/Sbam.yy",},
+    {"name":"Ocheck","order":5,"path":"objects/Ocheck/Ocheck.yy",},
+    {"name":"___2","order":1,"path":"sprites/___2/___2.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
+    {"name":"Sprite9","order":7,"path":"sprites/Sprite9/Sprite9.yy",},
+    {"name":"Sblock","order":8,"path":"sprites/Sblock/Sblock.yy",},
+    {"name":"Obam","order":3,"path":"objects/Obam/Obam.yy",},
+    {"name":"Sprite4","order":3,"path":"sprites/Sprite4/Sprite4.yy",},
+  ],
+}
