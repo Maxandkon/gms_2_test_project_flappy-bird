@@ -1,4 +1,4 @@
-# Platform-game__for-collecting_points__GameMaker_Studio_2
+# Description 
 The game was developed as a test project for the university
 
 The game repeats the basic mechanics of Flappy Bird, but with additional features, such as horizontal movement
